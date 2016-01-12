@@ -76,13 +76,13 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-4">
-						Hello 1
+						Hello World 1
 					</div>
 					<div class="col-sm-4">
-						Hello 2
+						Hello World 2
 					</div>
 					<div class="col-sm-4">
-						Hello 3</br>
+						Hello World 3</br>
 						<h3><span class="glyphicon glyphicon-search"></span></h3>						
 					</div>
 				</div>
