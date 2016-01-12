@@ -4,7 +4,7 @@
 ?>
 <!Doctype html>
 	<head>
-		<title>Learning-Bootstrap</title>
+		<title>Learning-Bootstrap !!</title>
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
 		<script src="js/jquery-1.11.3.js"></script>
